@@ -1,0 +1,31 @@
+Intro to Python: Module 1 Basics
+
+1. Output and Syntax
+print("Sophia Codes") # String output
+print(360)            # Numerical output
+
+2. Memory and Variables
+item = "Bike"         # String variable
+country = "France"    # Note: Strings must be in quotes
+print(item)
+
+3. Numerical Data and Operations
+print(6 + 2)          # Addition
+print(10 - 5)         # Subtraction
+print(2 * 3)          # Multiplication
+
+ 4. Working with Variable Data
+budget = 200
+print(budget)
+
+budget = 20           # Reassigning variable
+print(budget + 10)    # Math with variables (Result: 30)
+
+price = 5
+amount = 3
+print(price * amount) # Multiplication with variables (Result: 15)
+
+ 5. Updating Values (The "Latest Value" Rule)
+price = 98
+price = 100           # Overwriting the previous value
+print(price)          # This will show 100
