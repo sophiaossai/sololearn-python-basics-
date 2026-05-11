@@ -12,7 +12,7 @@ My Story:
 OOU Data Science student. Learning Python on mobile from Lagos.
 Bad days don't stop good habits. 
 
-May 4-Showing up despite setbacks. Day 4 locked in.
+May 11 Showing up despite setbacks. Day 11 locked in.
 
 
 GitHub:https://github.com/sophiaos
