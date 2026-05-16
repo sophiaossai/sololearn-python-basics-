@@ -1,0 +1,7 @@
+ Module 4 - Functions
+Just starting out
+
+def greet(name):
+    print("Hello"sophia)
+
+greet("World")
