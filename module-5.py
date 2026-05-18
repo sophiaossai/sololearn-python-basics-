@@ -9,3 +9,8 @@ print("First fruit:", fruits[0])
 Add a new item
 fruits.append("mango")
 print("After adding mango:", fruits)
+
+Loop through the list
+print("\nPrinting each fruit:")
+for fruit in fruits:
+    print("-", fruit)
