@@ -8,3 +8,5 @@ print(student)
 
 for key, value in student.items():
     print(f"{key}: {value}")
+student["course"] = "Data Science"
+print(f"{student['name']} is studying {student['course']}")
