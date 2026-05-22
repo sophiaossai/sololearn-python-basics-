@@ -10,3 +10,6 @@ for key, value in student.items():
     print(f"{key}: {value}")
 student["course"] = "Data Science"
 print(f"{student['name']} is studying {student['course']}")
+# String functions in Module 6: 
+# .upper(), .lower(), .strip(), .split(), .join() are used to 
+# manipulate and clean text data in Python
